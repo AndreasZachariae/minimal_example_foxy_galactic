@@ -3,7 +3,7 @@ Show working topic communication between ROS2 foxy and galactic
 
 ## Foxy Docker
 
-Some output of `ros2 doctor --report` without 
+Some output of `ros2 doctor --report`
 
     PLATFORM INFORMATION
     system           : Linux
@@ -31,7 +31,7 @@ Output of `ros2 doctor --report | grep fastrtps`
 
 ## Galactic Docker
 
-Some output of `ros2 doctor --report` without 
+Some output of `ros2 doctor --report`
 
     PLATFORM INFORMATION
     system           : Linux
